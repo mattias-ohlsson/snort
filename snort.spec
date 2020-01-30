@@ -23,6 +23,7 @@ BuildRequires:  flatbuffers-devel
 BuildRequires:  hyperscan-devel
 BuildRequires:  gperftools-devel
 BuildRequires:  libdaq-devel
+BuildRequires:  luajit-devel
 
 %description
 Snort is an open source intrusion prevention system capable of real-time
